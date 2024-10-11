@@ -1,0 +1,17 @@
+.text-center {
+  text-align: center;
+  color: white;
+}
+.mx-auto {
+  margin: auto;
+}
+.btn-clr {
+  background-color: #d76405b3;
+}
+.btn-gry {
+  background-color: #2e2d2c;
+  color: white;
+}
+.inp-clr {
+  background-color: #878686;
+}
